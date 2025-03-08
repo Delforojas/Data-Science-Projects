@@ -1,20 +1,19 @@
-💳🚨 Detección de Fraudes de tarjetas de credito con Machine Learning
+💳🚨 Detección de Fraudes con Tarjetas de Crédito  
 
-🚀 Descripción:
-Este proyecto forma parte de mi Trabajo Final del certificado de IBM:Inteligencia Artificial -Programa de Aprendizaje Basado en Proyectos .
+🚀 Descripción  
 
-A través de un Jupyter Notebook, se exploran diferentes estrategias de preprocesamiento, ingeniería de características y modelos de aprendizaje automático para la Detección de fraudes con tarjetas de crédito
+Este proyecto forma parte de mi **Trabajo Final del certificado de IBM: Inteligencia Artificial - Programa de Aprendizaje Basado en Proyectos**.  
 
-🔹 Tecnologías utilizadas
+Se exploran diferentes estrategias de **preprocesamiento de datos, ingeniería de características y modelos de aprendizaje automático** para la **detección de fraudes en transacciones con tarjetas de crédito**.  
 
-✅ Python - Lenguaje principal para análisis de datos
+📊 Se analizan patrones de fraude en transacciones financieras y se implementan modelos que permiten identificar operaciones sospechosas con base en diferentes atributos transaccionales.  
 
-✅ Jupyter Notebook - Entorno interactivo
+🔹 Tecnologías utilizadas  
 
-✅ Pandas - Manipulación y limpieza de datos
-
-✅ NumPy - Cálculo numérico
-
-✅ Matplotlib & Seaborn - Visualización de datos
-
-✅ SQL - Consultas y análisis de bases de datos
+✅ **Python** - Lenguaje principal para análisis de datos  
+✅ **Jupyter Notebook** - Entorno interactivo  
+✅ **Pandas** - Manipulación y limpieza de datos  
+✅ **NumPy** - Cálculo numérico  
+✅ **Matplotlib & Seaborn** - Visualización de datos  
+✅ **Scikit-Learn** - Modelado de Machine Learning  
+✅ **SQL** - Análisis y extracción de datos  
