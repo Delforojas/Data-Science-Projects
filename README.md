@@ -3,6 +3,8 @@
 📌 Descripción:
 Este repositorio contiene proyectos y recursos enfocados en Análisis de Datos, Ciencia de Datos y Machine Learning utilizando Python. Abarca desde el procesamiento y exploración de datos hasta la creación de modelos predictivos y visualización de insights.
 
+
+
 📊 Temas principales:
 
 ✅ Exploración y limpieza de datos (Pandas, NumPy)
@@ -14,6 +16,8 @@ Este repositorio contiene proyectos y recursos enfocados en Análisis de Datos, 
 ✅ Análisis estadístico y toma de decisiones basada en datos
 
 ✅ Automatización y manipulación de grandes volúmenes de datos
+
+
 
 
 🛠 Tecnologías utilizadas:
