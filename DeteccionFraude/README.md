@@ -8,8 +8,13 @@ A través de un Jupyter Notebook, se exploran diferentes estrategias de preproce
 🔹 Tecnologías utilizadas
 
 ✅ Python - Lenguaje principal para análisis de datos
+
 ✅ Jupyter Notebook - Entorno interactivo
+
 ✅ Pandas - Manipulación y limpieza de datos
+
 ✅ NumPy - Cálculo numérico
+
 ✅ Matplotlib & Seaborn - Visualización de datos
+
 ✅ SQL - Consultas y análisis de bases de datos
