@@ -1,6 +1,7 @@
 🎵📊 Análisis de Tendencias Musicales en YouTube y Spotify
 
 🚀 Descripción
+
 Este proyecto es el resultado final del curso de Udemy "Analisis de datos con Python TOLTAL en 7 dias ".Utilizando datos 
 reales de plataformas como Youtube y Spotify .
 
